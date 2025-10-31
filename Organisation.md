@@ -1,5 +1,6 @@
 ### Idées générales
 
+- choix de l'utilisation de torch ou tensorflow
 - faire des codes généraux dans un package utils.py que l'on peut réutiliser d'un mini projet à un autre
 - classification fine, faire un choix de réseau d'utilisation de fine tuning ou de transfert learning
 - évaluer la qualité du modèle
@@ -9,7 +10,7 @@
 ### Utils
 
 Une classe utils avec comme premiers arguments (en self) les dimensions et charactéristiques propres au mini-projet qui sont ainsi fixées au début,
-on utilise ensuite des méthodes qui utilisent ces dimensions mais pas besoin de les rensigner à chaque fois
+on utilise ensuite des méthodes qui utilisent ces dimensions mais pas besoin de les renseigner à chaque fois
 
 ## Preparation des images
 - une fonction pour reshape les images
