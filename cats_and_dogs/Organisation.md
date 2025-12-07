@@ -33,3 +33,5 @@ on utilise ensuite des méthodes qui utilisent ces dimensions mais pas besoin de
 4. Segmentation des animaux
 
 5. Analyse comparative
+
+jeter un œil à la bibliothèque TorchTune pour le fine tunning
