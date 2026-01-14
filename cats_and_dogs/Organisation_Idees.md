@@ -34,6 +34,10 @@ on utilise ensuite des méthodes qui utilisent ces dimensions mais pas besoin de
 
 5. Analyse comparative
 
-### Note
+### Notes
 
 uniformiser la langue des commentaires
+
+<b>relire le TP HDDL xai.ipynb, donne un exemple de transfer learning avec vgg11, (entrainement sur une seule époch, learning rate 1e-3)</b>
+
+faire un fichier .gitignore
